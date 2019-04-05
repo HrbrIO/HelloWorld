@@ -1,0 +1,18 @@
+{
+  "name": "hrbr-helloworld",
+  "version": "1.0.0",
+  "description": "Hrbr.io hello world application.",
+  "main": "index.js",
+  "repository": "https://github.com/HrbrIO/HelloWorld.git",
+  "author": "Scott Matheson <scott@hrbr.io> (https://hrbr.io/)",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/HrbrIO/HelloWorld#README.md",
+  "bugs": {
+    "url": "https://github.com/HrbrIO/HelloWorld/issues"
+  },
+  "keywords": [
+    "beacon",
+    "hello world",
+    "hrbr"
+  ]
+}
