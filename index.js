@@ -12,13 +12,13 @@ try {
 
 const HRBR_BEACON_URL = 'https://harbor-stream.hrbr.io/beacon';
 
-const API_KEY = '<YOUR-API-KEY>';
+const API_KEY = 'abe3a65c99e93631a97bf4bb73ddf919';
 
 // Now you need to have a valid appVersionId. To get one, create an app in your account. appVersionId's use a naming
 // convention similar to a lot of bundle/docker ids which is a combination of RDNS and semantic versioning. Example:
-// io.hrbr.mycoolapp:1.0.0. Feel free to use the appVersionId shown below for this tutorial.
+// io.coolcompany.helloword:1.0.0. Feel free to use the appVersionId shown below for this tutorial.
 
-const APP_VERSION_ID = 'io.coolcompany.helloword:1.0.0';
+const APP_VERSION_ID = 'scott:1.0.0';
 
 // You also need to have a beacon registered to your app in order for Harbor to accept the post. Beacons have a
 // beaconVersionId which follows the same convention as the appVersionId, above. Let's use: io.hrbr.howdybeacon:1.0.0.
@@ -26,7 +26,7 @@ const APP_VERSION_ID = 'io.coolcompany.helloword:1.0.0';
 // You will need to add this beacon to your app by going to the app details page on the website, then clicking + BEACON.
 // The beaconVersionId must match EXACTLY with what is below.
 
-const BEACON_VERSION_ID = 'io.coolcompany.helloword:1.0.0';
+const BEACON_VERSION_ID = 'scott:1.0.0';
 
 const BEACON_MESSAGE_TYPE = 'HELLO_WORLD';
 
