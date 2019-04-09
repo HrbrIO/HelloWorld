@@ -29,24 +29,24 @@ RDNS and semantic versioning. Example: *io.coolcompany.helloworld:1.0.0*
 
 * Clone the repository.
 
-```
-$ git clone https://github.com/HrbrIO/HelloWorld.git
-$ cd HelloWorld
-```
+  ```
+  $ git clone https://github.com/HrbrIO/HelloWorld.git
+  $ cd HelloWorld
+  ```
 
 * Install dependencies.
  
-If you are using npm, run:
+   If you are using npm, run:
 
-```$ npm update```
+   ```$ npm update```
 
-Or, if you are using yarn, run:
+   Or, if you are using yarn, run:
 
-```$ yarn```
+   ```$ yarn```
 
 * Update the code.
 
-Open `index.js` and replace __API_KEY__, __APP_VERSION_ID__, & __BEACON_VERSION_ID__  with the values
+   Open `index.js` and replace __API_KEY__, __APP_VERSION_ID__, & __BEACON_VERSION_ID__  with the values
 you entered while creating your Application & Beacon on https://cloud.hrbr.io
 
 ### Run the Sample Code
@@ -64,11 +64,11 @@ Success
 ### See Your Beacons 
 
 To see the Beacons on Hrbr.io go to your [Applications](https://cloud.hrbr.io/#!/apps/list) and click
-the link for your __developer console__.  
+the link for your __developer console__.  Once you have your console up and running, rerun the code from above to see your Beacons.
 
 ![developer console](screenshots/coolcustomerapp.png)
 
-Once you have your console up and running, rerun the code from above to see your Beacons.
+***
 
 ![developer view](screenshots/developerview.png)
 
