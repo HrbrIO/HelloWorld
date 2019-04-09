@@ -70,6 +70,8 @@ the link for your __developer console__.
 
 Once you have your console up and running, rerun the code from above to see your Beacons.
 
+![developer view](screenshots/developerview.png)
+
 ## Next Steps
 
 You are on your way to full application observation using Hrbr.io.  If you are trying to figure out where to go next, 
