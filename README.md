@@ -18,11 +18,11 @@ While you are still on the site, go ahead and create an Application w/ a Beacon.
 
 1. Create your first Application and make note of the Application Id.  `appVersionId`'s 
 use a naming convention similar to a lot of bundle/docker ids which is a combination of 
-RDNS and semantic versioning. Example: *io.coolcompany.helloword:1.0.0*
+RDNS and semantic versioning. Example: *io.coolcompany.helloworld:1.0.0*
 
 2. Within that application, create your first Beacon and make note of the Beacon Id.  `beaconVersionId`'s 
 use a naming convention similar to a lot of bundle/docker ids which is a combination of 
-RDNS and semantic versioning. Example: *io.coolcompany.helloword:1.0.0*
+RDNS and semantic versioning. Example: *io.coolcompany.helloworld:1.0.0*
 
 
 ### Working With the Sample Code
